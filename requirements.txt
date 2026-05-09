@@ -1,5 +1,8 @@
-streamlit 
-transformers 
-torch 
-huggingface_hub 
-matplotlib 
+streamlit
+pandas
+matplotlib
+sentence-transformers
+torch
+openpyxl
+reportlab
+streamlit-option-menu
