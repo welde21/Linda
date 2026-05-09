@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "__version__": {
     "sentence_transformers": "5.3.0",
@@ -11,4 +12,19 @@
   },
   "default_prompt_name": null,
   "similarity_fn_name": "cosine"
+=======
+{
+  "__version__": {
+    "sentence_transformers": "5.3.0",
+    "transformers": "5.3.0",
+    "pytorch": "2.11.0+cpu"
+  },
+  "model_type": "SentenceTransformer",
+  "prompts": {
+    "query": "",
+    "document": ""
+  },
+  "default_prompt_name": null,
+  "similarity_fn_name": "cosine"
+>>>>>>> e0c1fbf86e504af00082172b888a3709a630cbe2
 }

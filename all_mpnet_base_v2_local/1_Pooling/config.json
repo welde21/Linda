@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "word_embedding_dimension": 768,
     "pooling_mode_cls_token": false,
@@ -7,4 +8,15 @@
     "pooling_mode_weightedmean_tokens": false,
     "pooling_mode_lasttoken": false,
     "include_prompt": true
+=======
+{
+    "word_embedding_dimension": 768,
+    "pooling_mode_cls_token": false,
+    "pooling_mode_mean_tokens": true,
+    "pooling_mode_max_tokens": false,
+    "pooling_mode_mean_sqrt_len_tokens": false,
+    "pooling_mode_weightedmean_tokens": false,
+    "pooling_mode_lasttoken": false,
+    "include_prompt": true
+>>>>>>> e0c1fbf86e504af00082172b888a3709a630cbe2
 }
